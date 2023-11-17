@@ -19,5 +19,5 @@ I’m a Software Developer who is passionate about creating high quality applica
     My Github Statistics
 </h3>
 <p>
-  [![Emre Deniz's github stats](https://github-readme-stats.vercel.app/api?username=EmreDenizz&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+    [!GitHub Stats](https://github-readme-stats.vercel.app/api?username=EmreDenizz&count_private=true&show_icons=true&theme=radical&hide_rank=false)]
 </p>
