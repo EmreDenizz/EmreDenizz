@@ -14,3 +14,10 @@ I’m a Software Developer who is passionate about creating high quality applica
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
   </a>
 </div>
+
+<h3>
+    My Github Statistics
+</h3>
+<p>
+  [![Emre Deniz's github stats](https://github-readme-stats.vercel.app/api?username=EmreDenizz&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+</p>
