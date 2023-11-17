@@ -1,11 +1,6 @@
-<p>
-  I’m a Software Developer who is passionate about creating high quality applications.
-</p>
+I’m a Software Developer who is passionate about creating high quality applications.
 
-<h3>
-    Connect With Me
-</h3>
-
+## Connect With Me
 <div id="badges">
     <a href="https://www.linkedin.com/in/emre-deniz1/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -15,9 +10,5 @@
     </a>
 </div>
 
-<h3>
-    My Github Statistics
-</h3>
-<p>
-    ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EmreDenizz&count_private=true&show_icons=true&theme=radical&hide_rank=false)
-</p>
+## My Github Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EmreDenizz&count_private=true&show_icons=true&theme=radical&hide_rank=false)
