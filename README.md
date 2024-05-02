@@ -1,4 +1,4 @@
-I’m a Software Developer who is passionate about creating high quality applications.
+I’m a Software Developer passionate about creating high quality applications.
 
 ## Connect With Me
 <div id="badges">
