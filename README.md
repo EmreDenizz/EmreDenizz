@@ -12,3 +12,5 @@ I’m a Sr. Software Enginner passionate about creating high quality application
 
 ## My Github Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EmreDenizz&count_private=true&show_icons=true&theme=radical&hide_rank=false)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EmreDenizz&layout=compact)]
