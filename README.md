@@ -1,4 +1,4 @@
-I’m a Senior Software Enginner passionate about creating high quality applications.
+I'm a Senior Software Engineer who is enthusiastic about developing top-notch solutions.
 
 ## Connect With Me
 <div id="badges">
